@@ -3,9 +3,11 @@
 <h6>Passionate about Software Development👨🏻‍💻 and AI🤖</h6>
 <h6>Android & Jetpack, Kotlin & Java, NodeJS & Javascript, ML & DL.</h6>
 
+[Bio 👨🏻‍💻](http://pablopatarca.bio.link)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pablopatarca&count_private=true&theme=dark)
 
-![Profile Views](pablopatarca.bio.link)
+![Profile Views](https://komarev.com/ghpvc/?username=pablopatarca)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
