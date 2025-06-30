@@ -1,7 +1,5 @@
 ### Hi there 👋
-
 <h6>Passionate about Software Development👨🏻‍💻 and AI🤖</h6>
-<h6>Android & Jetpack, Kotlin & Java, NodeJS & Javascript, ML & DL.</h6>
 
 [Bio 👨🏻‍💻](http://pablopatarca.bio.link)
 
@@ -9,13 +7,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pablopatarca)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pablopatarca" target="blank">
-  <img align="center" src="https://www.svgrepo.com/show/11841/twitter.svg" alt="pablopatarca" height="30" width="40" /></a>
-<a href="https://medium.com/@pablopatarca" target="blank">
-  <img align="center" src="https://www.svgrepo.com/show/360560/medium.svg" alt="pablopatarca" height="30" width="40" /></a>
-</p>
 <!--
 - Read my articles at [Medium](https://medium.com/@pablopatarca)
 -->
